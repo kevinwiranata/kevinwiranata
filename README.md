@@ -1,5 +1,5 @@
 ### Hi there, welcome to my github! 👋
-
+![Kevin's GitHub stats](https://github-readme-stats-olive-one-75.vercel.app/api?username=kevinwiranata&layout=compact&show_icons=true&theme=prussian)
 <!--
 **kevinwiranata/kevinwiranata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
